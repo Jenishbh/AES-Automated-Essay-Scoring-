@@ -218,6 +218,9 @@ docker run -p 5000:5000 -t tchen0915/aes
 
 ![image](https://user-images.githubusercontent.com/60593990/164886359-217c9ba4-763d-473a-8ccb-8a7fa60eca3b.png)
 
+![image](https://user-images.githubusercontent.com/60593990/164886410-747a7968-4e96-4731-a7af-4320daed5b54.png)
+
+
 # Step 3: Deploy this solution on Kubernetes using cloud shell
 
 ## Create cluster
