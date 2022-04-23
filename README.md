@@ -301,7 +301,7 @@ spec:
 kubectl create -f aes-service.yaml
 ```
 
-![Untitled](Week%2011%20Ho%2028cd1/Untitled%2012.png)
+![image](https://user-images.githubusercontent.com/60593990/164887681-46a5d024-dbb2-43b7-b682-92c5618d8cac.png)
 
 ## Create ingress
 
@@ -340,7 +340,7 @@ spec:
 kubectl create -f aes-ingress.yaml
 ```
 
-![Untitled](Week%2011%20Ho%2028cd1/Untitled%2013.png)
+![image](https://user-images.githubusercontent.com/60593990/164887720-65514b1b-a00e-4ee9-b804-a2fc91e621f2.png)
 
 ## Check status
 
@@ -352,13 +352,6 @@ kubectl get ingress
 
 ![Untitled](Week%2011%20Ho%2028cd1/Untitled%2014.png)
 
-## Copy IP to your domain DNS server and create a record
-
-![Untitled](Week%2011%20Ho%2028cd1/Untitled%2015.png)
-
-## Access the domain from the browser
-
-![Untitled](Week%2011%20Ho%2028cd1/Untitled%2016.png)
 
 ## Test it with random wiki paragraph (I tried google wiki)
 
@@ -372,15 +365,15 @@ Google is well-known for it highly ambitious technological innovations aimed at 
 
 Google.com and YouTube.com are the two most visited websites worldwide followed by Facebook and Twitter. Google is also the largest search engine, mapping and navigation service, email provider, office suite, video sharing platform, photo and cloud storage provider, mobile operating system, web browser, ML framework, and AI virtual assistant provider in the world as measured by market share. On the list of most valuable brands, Google is ranked second by Forbes[19] and fourth by Interbrand.[20] It has received significant criticism involving issues such as privacy concerns, tax avoidance, censorship, search neutrality, antitrust and abuse of its monopoly position.
 
-![Untitled](Week%2011%20Ho%2028cd1/Untitled%2017.png)
+![image](https://user-images.githubusercontent.com/60593990/164888579-1a4e46c4-3971-452c-a6e2-02553b7c3030.png)
 
 Click **submit** button
 
-![Untitled](Week%2011%20Ho%2028cd1/Untitled%2018.png)
+![image](https://user-images.githubusercontent.com/60593990/164888547-af8066a9-228b-4776-b48d-06e17c6db563.png)
 
 Click **Grade Students** button
 
-![Untitled](Week%2011%20Ho%2028cd1/Untitled%2019.png)
+![image](https://user-images.githubusercontent.com/60593990/164888526-ebfa574a-a8ce-4c63-b7c5-fbdd3528eb97.png)
 
 # Reference
 
