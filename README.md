@@ -269,7 +269,7 @@ spec:
 kubectl create -f aes-deployment.yaml
 ```
 
-![Untitled](Week%2011%20Ho%2028cd1/Untitled%2011.png)
+![image](https://user-images.githubusercontent.com/60593990/164886851-09005a11-af4e-44c9-9aa8-d75bdc31a48e.png)
 
 ## Create service
 
