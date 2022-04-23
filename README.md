@@ -212,11 +212,11 @@ docker run -p 5000:5000 -t tchen0915/aes
 
 ## Use web Preview and change the port number to 5000
 
-![Untitled](Week%2011%20Ho%2028cd1/Untitled%207.png)
+![image](https://user-images.githubusercontent.com/60593990/164886390-299e0d23-2dd1-4b96-93ce-a3facddbf370.png)
 
-![Untitled](Week%2011%20Ho%2028cd1/Untitled%208.png)
+![image](https://user-images.githubusercontent.com/60593990/164886375-5ac62af0-285c-45a7-979c-1ced053142e2.png)
 
-![Untitled](Week%2011%20Ho%2028cd1/Untitled%209.png)
+![image](https://user-images.githubusercontent.com/60593990/164886359-217c9ba4-763d-473a-8ccb-8a7fa60eca3b.png)
 
 # Step 3: Deploy this solution on Kubernetes using cloud shell
 
